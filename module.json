@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "name": "CostumeTokenBuyer",
+    "author": "TerableCoder",
+    "homepage": "https://github.com/TerableCoder/CTB",
+    "description": "Fashion coupons into tokens",
+    "version": "1",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/CTB/master/"]
+}
